@@ -1,0 +1,1112 @@
+{
+    "waveInfo" : [
+        {
+            "waveNumber" : 1, 
+            "spawnCount" : 1,
+            "spawnTime" : 3,
+            "meteorCount" : [2, 2, 0],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 0, "maxRate" : 0}
+            ]
+        },
+        {
+            "waveNumber" : 2,
+            "spawnCount": 1,
+            "spawnTime" : 3,
+            "meteorCount" : [3, 2, 0],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 0, "maxRate" : 0}
+            ]
+        },
+        {
+            "waveNumber" : 3,
+            "spawnCount": 1,
+            "spawnTime" : 3,
+            "meteorCount" : [3, 3, 0],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 0, "maxRate" : 0}
+            ]
+        },
+        {
+            "waveNumber" : 4,
+            "spawnCount": 1,
+            "spawnTime" : 3,
+            "meteorCount" : [4, 3, 0],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 0, "maxRate" : 0}
+            ]
+        },
+        {
+            "waveNumber" : 5,
+            "spawnCount": 1,
+            "spawnTime" : 3,
+            "meteorCount" : [4, 2, 1],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 2, "maxRate" : 3}
+            ]
+        },
+        {
+            "waveNumber" : 6,
+            "spawnCount": 1,
+            "spawnTime" : 3,
+            "meteorCount" : [2, 3, 0],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 0, "maxRate" : 0}
+            ]
+        },
+        {
+            "waveNumber" : 7,
+            "spawnCount": 1,
+            "spawnTime" : 3,
+            "meteorCount" : [4, 4, 0],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 0, "maxRate" : 0}
+            ]
+        },
+        {
+            "waveNumber" : 8,
+            "spawnCount": 1,
+            "spawnTime" : 3,
+            "meteorCount" : [5, 3, 0],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 0, "maxRate" : 0}
+            ]
+        },
+        {
+            "waveNumber" : 9,
+            "spawnCount": 1,
+            "spawnTime" : 3,
+            "meteorCount" : [4, 3, 1],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 2, "maxRate" : 3}
+            ]
+        },
+        {
+            "waveNumber" : 10,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [4, 4, 1],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 2, "maxRate" : 3}
+            ]
+        },
+        {
+            "waveNumber" : 11,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [4, 2, 0],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 0, "maxRate" : 0}
+            ]
+        },
+        {
+            "waveNumber" : 12,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [2, 3, 1],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 2, "maxRate" : 4}
+            ]
+        },
+        {
+            "waveNumber" : 13,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [4, 3, 0],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 0, "maxRate" : 0}
+            ]
+        },
+        {
+            "waveNumber" : 14,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [3, 2, 1],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 2, "maxRate" : 4}
+            ]
+        },
+        {
+            "waveNumber" : 15,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [4, 1, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 2, "maxRate" : 4}
+            ]
+        },
+        {
+            "waveNumber" : 16,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [5, 4, 0],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 0, "maxRate" : 0}
+            ]
+        },
+        {
+            "waveNumber" : 17,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [6, 2, 1],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 2, "maxRate" : 4}
+            ]
+        },
+        {
+            "waveNumber" : 18,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [4, 5, 1],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 2, "maxRate" : 4}
+            ]
+        },
+        {
+            "waveNumber" : 19,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [6, 4, 0],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 0, "maxRate" : 0}
+            ]
+        },
+        {
+            "waveNumber" : 20,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [7, 1, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 2},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 2, "maxRate" : 4}
+            ]
+        },
+        {
+            "waveNumber" : 21,
+            "spawnCount": 2,
+            "spawnTime" : 2,
+            "meteorCount" : [3, 4, 1],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 4, "maxRate" : 5}
+            ]
+        },
+        {
+            "waveNumber" : 22,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [2, 4, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 4, "maxRate" : 5}
+            ]
+        },
+        {
+            "waveNumber" : 23,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [5, 3, 1],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 4, "maxRate" : 5}
+            ]
+        },
+        {
+            "waveNumber" : 24,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [3, 5, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 4, "maxRate" : 5}
+            ]
+        },
+        {
+            "waveNumber" : 25,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [5, 3, 3],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 4, "maxRate" : 5}
+            ]
+        },
+        {
+            "waveNumber" : 26,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [8, 3, 1],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 4, "maxRate" : 5}
+            ]
+        },
+        {
+            "waveNumber" : 27,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [6, 5, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 4, "maxRate" : 5}
+            ]
+        },
+        {
+            "waveNumber" : 28,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [7, 4, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 4, "maxRate" : 5}
+            ]
+        },
+        {
+            "waveNumber" : 29,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [7, 5, 1],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 4, "maxRate" : 5}
+            ]
+        },
+        {
+            "waveNumber" : 30,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [6, 3, 3],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 4, "maxRate" : 5}
+            ]
+        },
+        {
+            "waveNumber" : 31,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [2, 3, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 4, "maxRate" : 6}
+            ]
+        },
+        {
+            "waveNumber" : 32,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [1, 4, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 4, "maxRate" : 6}
+            ]
+        },
+        {
+            "waveNumber" : 33,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [3, 4, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 4, "maxRate" : 6}
+            ]
+        },
+        {
+            "waveNumber" : 34,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [5, 4, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 4, "maxRate" : 6}
+            ]
+        },
+        {
+            "waveNumber" : 35,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [4, 4, 4],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 4, "maxRate" : 6}
+            ]
+        },
+        {
+            "waveNumber" : 36,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [5, 3, 4],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 4, "maxRate" : 6}
+            ]
+        },
+        {
+            "waveNumber" : 37,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [7, 3, 4],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 4, "maxRate" : 6}
+            ]
+        },
+        {
+            "waveNumber" : 38,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [9, 2, 4],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 4, "maxRate" : 6}
+            ]
+        },
+        {
+            "waveNumber" : 39,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [7, 3, 4],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 4, "maxRate" : 6}
+            ]
+        },
+        {
+            "waveNumber" : 40,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [8, 5, 4],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 3},
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 4, "maxRate" : 6}
+            ]
+        },
+        {
+            "waveNumber" : 41,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [1, 5, 3],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 5, "maxRate" : 7}
+            ]
+        },
+        {
+            "waveNumber" : 42,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [0, 7, 3],
+            "meteorHpRate" : [
+                { "minRate" : 0, "maxRate" : 0},
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 5, "maxRate" : 7}
+            ]
+        },
+        {
+            "waveNumber" : 43,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [1, 7, 3],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 5, "maxRate" : 7}
+            ]
+        },
+        {
+            "waveNumber" : 44,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [6, 3, 3],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 5, "maxRate" : 7}
+            ]
+        },
+        {
+            "waveNumber" : 45,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [6, 3, 5],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 5, "maxRate" : 7}
+            ]
+        },
+        {
+            "waveNumber" : 46,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [6, 3, 5],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 5, "maxRate" : 7}
+            ]
+        },
+        {
+            "waveNumber" : 47,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [9, 1, 5],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 5, "maxRate" : 7}
+            ]
+        },
+        {
+            "waveNumber" : 48,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [8, 3, 5],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 5, "maxRate" : 7}
+            ]
+        },
+        {
+            "waveNumber" : 49,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [10, 2, 5],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 5, "maxRate" : 7}
+            ]
+        },
+        {
+            "waveNumber" : 50,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [8, 5, 5],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 5, "maxRate" : 7}
+            ]
+        },
+        {
+            "waveNumber" : 51,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [2, 6, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 52,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [1, 8, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 5, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 53,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [2, 5, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 54,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [6, 4, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 5, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 55,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [5, 3, 6],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 56,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [3, 4, 6],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 5, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 57,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [8, 2, 6],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 58,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [7, 4, 6],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 5, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 59,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [9, 3, 6],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 60,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [6, 6, 6],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 4},
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 5, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 61,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [1, 7, 3],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 6, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 62,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [6, 3, 3],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 7},
+                { "minRate" : 6, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 63,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [4, 6, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 6, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 64,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [7, 4, 3],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 7},
+                { "minRate" : 6, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 65,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [4, 4, 7],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 6, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 66,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [4, 5, 7],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 7},
+                { "minRate" : 6, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 67,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [7, 3, 7],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 6, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 68,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [6, 5, 7],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 7},
+                { "minRate" : 6, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 69,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [9, 4, 7],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 6, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 70,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [9, 4, 7],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 7},
+                { "minRate" : 6, "maxRate" : 8}
+            ]
+        },
+        {
+            "waveNumber" : 71,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [6, 5, 1],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 8},
+                { "minRate" : 6, "maxRate" : 10}
+            ]
+        },
+        {
+            "waveNumber" : 72,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [6, 6, 2],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 7},
+                { "minRate" : 6, "maxRate" : 10}
+            ]
+        },
+        {
+            "waveNumber" : 73,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [4, 7, 3],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 8},
+                { "minRate" : 6, "maxRate" : 10}
+            ]
+        },
+        {
+            "waveNumber" : 74,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [3, 8, 4],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 7},
+                { "minRate" : 6, "maxRate" : 10}
+            ]
+        },
+        {
+            "waveNumber" : 75,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [3, 5, 8],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 8},
+                { "minRate" : 6, "maxRate" : 10}
+            ]
+        },
+        {
+            "waveNumber" : 76,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [3, 6, 8],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 7},
+                { "minRate" : 6, "maxRate" : 10}
+            ]
+        },
+        {
+            "waveNumber" : 77,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [6, 4, 8],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 8},
+                { "minRate" : 6, "maxRate" : 10}
+            ]
+        },
+        {
+            "waveNumber" : 78,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [5, 7, 8],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 7},
+                { "minRate" : 6, "maxRate" : 10}
+            ]
+        },
+        {
+            "waveNumber" : 79,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [7, 5, 8],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 8},
+                { "minRate" : 6, "maxRate" : 10}
+            ]
+        },
+        {
+            "waveNumber" : 80,
+            "spawnCount": 1,
+            "spawnTime" : 2,
+            "meteorCount" : [8, 5, 8],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 5},
+                { "minRate" : 1, "maxRate" : 7},
+                { "minRate" : 6, "maxRate" : 10}
+            ]
+        },
+        {
+            "waveNumber" : 81,
+            "spawnCount": 5,
+            "spawnTime" : 2,
+            "meteorCount" : [14, 6, 5],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 1, "maxRate" : 11},
+                { "minRate" : 7, "maxRate" : 11}
+            ]
+        },
+        {
+            "waveNumber" : 82,
+            "spawnCount": 5,
+            "spawnTime" : 2,
+            "meteorCount" : [13, 7, 5],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 1, "maxRate" : 11},
+                { "minRate" : 7, "maxRate" : 11}
+            ]
+        },
+        {
+            "waveNumber" : 83,
+            "spawnCount": 5,
+            "spawnTime" : 2,
+            "meteorCount" : [12, 8, 5],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 1, "maxRate" : 11},
+                { "minRate" : 7, "maxRate" : 11}
+            ]
+        },
+        {
+            "waveNumber" : 84,
+            "spawnCount": 5,
+            "spawnTime" : 2,
+            "meteorCount" : [11, 9, 5],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 1, "maxRate" : 11},
+                { "minRate" : 7, "maxRate" : 11}
+            ]
+        },
+        {
+            "waveNumber" : 85,
+            "spawnCount": 5,
+            "spawnTime" : 2,
+            "meteorCount" : [10, 5, 10],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 1, "maxRate" : 11},
+                { "minRate" : 7, "maxRate" : 11}
+            ]
+        },
+        {
+            "waveNumber" : 86,
+            "spawnCount": 5,
+            "spawnTime" : 2,
+            "meteorCount" : [9, 7, 9],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 1, "maxRate" : 11},
+                { "minRate" : 7, "maxRate" : 11}
+            ]
+        },
+        {
+            "waveNumber" : 87,
+            "spawnCount": 5,
+            "spawnTime" : 2,
+            "meteorCount" : [11, 5, 9],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 1, "maxRate" : 11},
+                { "minRate" : 7, "maxRate" : 11}
+            ]
+        },
+        {
+            "waveNumber" : 88,
+            "spawnCount": 5,
+            "spawnTime" : 2,
+            "meteorCount" : [9, 7, 9],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 1, "maxRate" : 11},
+                { "minRate" : 7, "maxRate" : 11}
+            ]
+        },
+        {
+            "waveNumber" : 89,
+            "spawnCount": 5,
+            "spawnTime" : 2,
+            "meteorCount" : [10, 6, 9],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 1, "maxRate" : 11},
+                { "minRate" : 7, "maxRate" : 11}
+            ]
+        },
+        {
+            "waveNumber" : 90,
+            "spawnCount": 5,
+            "spawnTime" : 2,
+            "meteorCount" : [10, 5, 10],
+            "meteorHpRate" : [
+                { "minRate" : 1, "maxRate" : 6},
+                { "minRate" : 1, "maxRate" : 11},
+                { "minRate" : 7, "maxRate" : 11}
+            ]
+        },
+        {
+            "waveNumber" : 91,
+            "spawnCount": 5,
+            "spawnTime" : 1,
+            "meteorCount" : [19, 6, 5],
+            "meteorHpRate" : [
+                { "minRate" : 5, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 25},
+                { "minRate" : 12, "maxRate" : 25}
+            ]
+        },
+        {
+            "waveNumber" : 92,
+            "spawnCount": 5,
+            "spawnTime" : 1,
+            "meteorCount" : [18, 7, 5],
+            "meteorHpRate" : [
+                { "minRate" : 5, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 25},
+                { "minRate" : 12, "maxRate" : 25}
+            ]
+        },
+        {
+            "waveNumber" : 93,
+            "spawnCount": 5,
+            "spawnTime" : 1,
+            "meteorCount" : [17, 8, 5],
+            "meteorHpRate" : [
+                { "minRate" : 5, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 25},
+                { "minRate" : 12, "maxRate" : 25}
+            ]
+        },
+        {
+            "waveNumber" : 94,
+            "spawnCount": 5,
+            "spawnTime" : 1,
+            "meteorCount" : [16, 9, 5],
+            "meteorHpRate" : [
+                { "minRate" : 5, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 25},
+                { "minRate" : 12, "maxRate" : 25}
+            ]
+        },
+        {
+            "waveNumber" : 95,
+            "spawnCount": 5,
+            "spawnTime" : 1,
+            "meteorCount" : [10, 10, 10],
+            "meteorHpRate" : [
+                { "minRate" : 5, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 25},
+                { "minRate" : 12, "maxRate" : 25}
+            ]
+        },
+        {
+            "waveNumber" : 96,
+            "spawnCount": 5,
+            "spawnTime" : 1,
+            "meteorCount" : [13, 7, 10],
+            "meteorHpRate" : [
+                { "minRate" : 5, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 25},
+                { "minRate" : 12, "maxRate" : 25}
+            ]
+        },
+        {
+            "waveNumber" : 97,
+            "spawnCount": 5,
+            "spawnTime" : 1,
+            "meteorCount" : [15, 5, 10],
+            "meteorHpRate" : [
+                { "minRate" : 5, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 25},
+                { "minRate" : 12, "maxRate" : 25}
+            ]
+        },
+        {
+            "waveNumber" : 98,
+            "spawnCount": 5,
+            "spawnTime" : 1,
+            "meteorCount" : [13, 7, 10],
+            "meteorHpRate" : [
+                { "minRate" : 5, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 25},
+                { "minRate" : 12, "maxRate" : 25}
+            ]
+        },
+        {
+            "waveNumber" : 99,
+            "spawnCount": 5,
+            "spawnTime" : 1,
+            "meteorCount" : [17, 3, 10],
+            "meteorHpRate" : [
+                { "minRate" : 5, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 25},
+                { "minRate" : 12, "maxRate" : 25}
+            ]
+        },
+        {
+            "waveNumber" : 100,
+            "spawnCount": 5,
+            "spawnTime" : 1,
+            "meteorCount" : [20, 20, 20],
+            "meteorHpRate" : [
+                { "minRate" : 5, "maxRate" : 6},
+                { "minRate" : 5, "maxRate" : 25},
+                { "minRate" : 12, "maxRate" : 25}
+            ]
+        }
+    ],
+    "waveTerm" : 3,
+    "meteorMoveSpeed" : [2, 1, 0.5],
+    "meteorDamage" : [1, 2, 3],
+    "dropRate" : [95, 5],
+    "dropDregs" : [1, 1, 3],
+    "dropPerfectDregs" : [0, 0, 1],
+    "dropHearts" : [1, 1, 0],
+    "baseMeteorHp" : 4
+}

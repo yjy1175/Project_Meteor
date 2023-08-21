@@ -1,0 +1,33 @@
+{
+    "meteorList" : [
+        {
+            "count" : 10,
+            "cost" : 2500
+        },
+        {
+            "count" : 20,
+            "cost" : 5000
+        },
+        {
+            "count" : 30,
+            "cost" : 7500
+        },
+        {
+            "count" : 50,
+            "cost" : 10000
+        },
+        {
+            "count" : 100,
+            "cost" : 17500
+        },
+        {
+            "count" : 200,
+            "cost" : 30000
+        },
+        {
+            "count" : 500,
+            "cost" : 62500
+        }
+    ],
+    "adRemoveCost" : 12900
+}

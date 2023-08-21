@@ -1,0 +1,10 @@
+{
+    "baseHp" : 10,
+    "baseAttackCoolTime" : 0.2,
+    "baseAttackSpeed" : 0.2,
+    "baseMoveSpeed" : 2,
+    "baseJumpPower" : 8,
+    "doubleShotCount" : 3,
+    "doubleShotCoolTime" : 5,
+    "circleDiffuseCoolTime" : 30
+}
